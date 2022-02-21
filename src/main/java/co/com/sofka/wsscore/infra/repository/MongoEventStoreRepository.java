@@ -11,7 +11,6 @@ import org.bson.Document;
 import javax.enterprise.context.ApplicationScoped;
 
 import java.util.*;
-import java.util.function.Consumer;
 
 import static com.mongodb.client.model.Filters.eq;
 
